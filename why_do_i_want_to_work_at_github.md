@@ -1,4 +1,4 @@
-#### Why do you want to work at GitHub?
+#### Why do I want to work at GitHub?
 
 I want to work at GitHub as a Support Tools Application Engineer because this role combines my 3 biggest passions: helping developers become more efficient and effective, collaborating on projects using the GitHub Flow, and solving real problems for real people.
 
