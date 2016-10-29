@@ -1,3 +1,5 @@
+[🌎 home](README.md)
+
 #### Cover Letter
 Flexible technologies like web hooks, integrations, and the new GraphQL API make GitHub the “hub” for software development. It’s awesome because instead of trying to predict everything a user will do, GitHub is making it possible for users to do things no one can predict. The platform plays nice with tools developers are using.
 
